@@ -1,0 +1,1 @@
+cmd_/home/aartidangar/linux/linux-6.9.3/device_driver/platform/Module.symvers := sed 's/\.ko$$/\.o/' /home/aartidangar/linux/linux-6.9.3/device_driver/platform/modules.order | scripts/mod/modpost -m -a  -o /home/aartidangar/linux/linux-6.9.3/device_driver/platform/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/aartidangar/linux/linux-6.9.3/device_driver/platform/platform_setup.mod := { echo  /home/aartidangar/linux/linux-6.9.3/device_driver/platform/platform_setup.o;  echo; } > /home/aartidangar/linux/linux-6.9.3/device_driver/platform/platform_setup.mod
